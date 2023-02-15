@@ -5,7 +5,7 @@ Hello! Below are the instructions for a code challenge we'd like you to prepare.
 
 ## The Challenge
 
-Build a todo list app in React. It should meet the following:
+Build a todo list app in React Native. It should meet the following:
 
 #### Product Requirements
 - As a user, I can add an item to my todo list
@@ -19,9 +19,9 @@ Build a todo list app in React. It should meet the following:
 - It should be responsively implemented for large, medium, and mobile browsers
 
 #### Technical Requirements
-- Be launch-able from the command line and browsable in the browser
-- Built in React
-- Style using CSS-in-JS. For example using Styled Components, Emotion, styled-js, or just `style` tags on the elements
+- Be launchable
+- Built in React Native
+- Uses a theme library for components
 - Include a readme of how to install dependencies and launch the app
 
 
