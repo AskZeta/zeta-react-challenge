@@ -1,5 +1,5 @@
 
-# Zeta React Code Challenge
+# Zeta React Native Code Challenge
 
 Hello! Below are the instructions for a code challenge we'd like you to prepare. Please limit yourself to 3-4 hours maximum on your solution, we want to respect your time but ask for a small commitment to see your skills in action.
 
