@@ -16,7 +16,7 @@ Build a todo list app in React Native. It should meet the following:
 #### Design Requirements
 - It should look and feel easy to use and simple, but pleasing
 - It should have some degree of styling applied to the elements
-- It should be responsively implemented for large, medium, and mobile browsers
+- It should be responsively implemented for large, medium, and small screens
 
 #### Technical Requirements
 - Be launchable
@@ -33,7 +33,7 @@ Time permitting, choose one or several of the following features and implement t
 - I can filter my todos list into completed vs incomplete
 - Todos can be ordered, and I drag and drop a 'handle' to change its ordering
 - The code base is tested, either unit tested or integration tested
-- Todos have browser-based storage for persistence
+- Todos have persistant storage between app close and re-open
 
 Your solution will be used as the basis of a code reviewing and pairing interview. Be prepared to talk about your code, why you made certain decisions, and be ready to walk another developer through your codebase.
 
